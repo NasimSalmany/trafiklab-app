@@ -1,0 +1,60 @@
+{
+  "Result": [
+    {
+      "LineNumber": "1",
+      "JourneyPatternPointNumber": "10008"
+    },
+    {
+      "LineNumber": "1",
+      "JourneyPatternPointNumber": "10012"
+    },
+    {
+      "LineNumber": "1",
+      "JourneyPatternPointNumber": "10014"
+    },
+    {
+      "LineNumber": "2",
+      "JourneyPatternPointNumber": "10016"
+    },
+    {
+      "LineNumber": "2",
+      "JourneyPatternPointNumber": "10024"
+    },
+    {
+      "LineNumber": "3",
+      "JourneyPatternPointNumber": "10034"
+    },
+    {
+      "LineNumber": "3",
+      "JourneyPatternPointNumber": "10038"
+    },
+    {
+      "LineNumber": "4",
+      "JourneyPatternPointNumber": "10042"
+    },
+    {
+      "LineNumber": "5",
+      "JourneyPatternPointNumber": "10044"
+    },
+    {
+      "LineNumber": "6",
+      "JourneyPatternPointNumber": "10053"
+    },
+    {
+      "LineNumber": "7",
+      "JourneyPatternPointNumber": "10055"
+    },
+    {
+      "LineNumber": "8",
+      "JourneyPatternPointNumber": "10057"
+    },
+    {
+      "LineNumber": "9",
+      "JourneyPatternPointNumber": "10059"
+    },
+    {
+      "LineNumber": "10",
+      "JourneyPatternPointNumber": "10061"
+    }
+  ]
+}

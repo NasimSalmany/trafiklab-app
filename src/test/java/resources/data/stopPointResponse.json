@@ -1,0 +1,60 @@
+{
+  "Result": [
+    {
+      "StopPointNumber": "10008",
+      "StopPointName": "S:t Eriksgatan"
+    },
+    {
+      "StopPointNumber": "10012",
+      "StopPointName": "Celsiusgatan"
+    },
+    {
+      "StopPointNumber": "10014",
+      "StopPointName": "Scheelegatan"
+    },
+    {
+      "StopPointNumber": "10016",
+      "StopPointName": "Kungsbroplan"
+    },
+    {
+      "StopPointNumber": "10024",
+      "StopPointName": "Hötorget"
+    },
+    {
+      "StopPointNumber": "10034",
+      "StopPointName": "Humlegården"
+    },
+    {
+      "StopPointNumber": "10038",
+      "StopPointName": "Nybrogatan"
+    },
+    {
+      "StopPointNumber": "10042",
+      "StopPointName": "Jungfrugatan"
+    },
+    {
+      "StopPointNumber": "10044",
+      "StopPointName": "Värtavägen"
+    },
+    {
+      "StopPointNumber": "10053",
+      "StopPointName": "Frihamnsporten"
+    },
+    {
+      "StopPointNumber": "10055",
+      "StopPointName": "Sehlstedtsgatan"
+    },
+    {
+      "StopPointNumber": "10057",
+      "StopPointName": "Östhammarsgatan"
+    },
+    {
+      "StopPointNumber": "10059",
+      "StopPointName": "Rökubbsgatan"
+    },
+    {
+      "StopPointNumber": "10061",
+      "StopPointName": "Sandhamnsplan"
+    }
+  ]
+}
